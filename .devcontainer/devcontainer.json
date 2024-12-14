@@ -1,0 +1,10 @@
+{
+    "name": "GitHub Copilot Devcontainer",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:0-bullseye",
+    "extensions": [
+        "GitHub.copilot"
+    ],
+    "settings": {
+        "github.copilot.enable": true
+    }
+}
